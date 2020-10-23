@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SocialMediaDashboard-React/static/css/main.c0344efa.chunk.css",
+    "main.js": "/SocialMediaDashboard-React/static/js/main.5b4d92a7.chunk.js",
+    "main.js.map": "/SocialMediaDashboard-React/static/js/main.5b4d92a7.chunk.js.map",
+    "runtime-main.js": "/SocialMediaDashboard-React/static/js/runtime-main.f052bbfe.js",
+    "runtime-main.js.map": "/SocialMediaDashboard-React/static/js/runtime-main.f052bbfe.js.map",
+    "static/js/2.8ce9c3ec.chunk.js": "/SocialMediaDashboard-React/static/js/2.8ce9c3ec.chunk.js",
+    "static/js/2.8ce9c3ec.chunk.js.map": "/SocialMediaDashboard-React/static/js/2.8ce9c3ec.chunk.js.map",
+    "index.html": "/SocialMediaDashboard-React/index.html",
+    "precache-manifest.3b3b8afe3f8b354dc8a999cae753a4ff.js": "/SocialMediaDashboard-React/precache-manifest.3b3b8afe3f8b354dc8a999cae753a4ff.js",
+    "service-worker.js": "/SocialMediaDashboard-React/service-worker.js",
+    "static/css/main.c0344efa.chunk.css.map": "/SocialMediaDashboard-React/static/css/main.c0344efa.chunk.css.map",
+    "static/js/2.8ce9c3ec.chunk.js.LICENSE.txt": "/SocialMediaDashboard-React/static/js/2.8ce9c3ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f052bbfe.js",
+    "static/js/2.8ce9c3ec.chunk.js",
+    "static/css/main.c0344efa.chunk.css",
+    "static/js/main.5b4d92a7.chunk.js"
+  ]
+}
