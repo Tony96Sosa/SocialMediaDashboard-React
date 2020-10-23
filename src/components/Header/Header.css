@@ -1,0 +1,25 @@
+/* ---------------------------------------------- */
+/* -------------------HEADER--------------------- */
+/* ---------------------------------------------- */
+.header{
+    background-color: var(--backgroundTop);
+    padding-bottom: 100px;
+    border-radius: 0 0 20px 20px;
+    padding-top: 2em;
+  }
+  .header-total{
+    color: var(--cardSubtitle-color);
+    margin: .5em 0;
+    font-weight: 700;
+    border-bottom: 1px solid var(--cardSubtitle-color);
+    padding-bottom: 1.5em;
+  }
+  .header h1{
+    margin: 0;
+    font-size: 1.7em;
+    color: var(--title);
+  }
+  .top-cards{
+    margin-top: -50px;
+    margin-bottom: 3em;
+  }

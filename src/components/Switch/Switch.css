@@ -1,0 +1,41 @@
+/* ---------------------------------------------- */
+/* -------------------SWITCH--------------------- */
+/* ---------------------------------------------- */
+.dark-mode {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1em;
+  }
+  .dark-mode-title{
+    color: var(--subtitle-color);
+    font-weight: 700;
+  }
+  .checkbox {
+    display: none;
+  }
+  .checkbox:checked ~ .switch:before{
+    transform: translateX(0);
+  }
+  .switch {
+    height: 35px;
+    display: block;
+    border-radius: 20px;
+    background: var(--switchLight);
+    width: 70px;
+    padding: 5px;
+    box-sizing: border-box;
+    cursor: pointer;
+    user-select: none;
+  }
+  .switch::before {
+    content: "";
+    display: block;
+    width: 25px;
+    height: 25px;
+    background: var(--background);
+    border-radius: 50%;
+    transform: translateX(36px);
+    transition: .3s;
+    will-change: transform;
+  }
+  
